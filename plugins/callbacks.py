@@ -59,7 +59,7 @@ async def cb_handler(client, query):
                     InlineKeyboardButton("About Me👨‍💼", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("❤️ Subscribe Now ❤️", url="https://youtube.com/channel/UCgvMKeGX3hNfxfb7yEQpAgQ")
+                    InlineKeyboardButton("🔻 Subscribe Now YouTube 🔻", url="https://youtube.com/channel/UCgvMKeGX3hNfxfb7yEQpAgQ")
                 ]
             ]
         )
