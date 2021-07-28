@@ -33,12 +33,12 @@ async def cb_handler(client, query):
                    InlineKeyboardButton("𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙷𝚎𝚕𝚙", callback_data="help_data")
                 ],
                 [
-                   InlineKeyboardButton("🗣️𝙶𝚛𝚘𝚞𝚙", url="https://t.me/Mo_tech_group"),
-                   InlineKeyboardButton("🤖Bot List", url="https://t.me/Mo_Tech_YT/176"),
-                   InlineKeyboardButton("👨‍💻Source", url="https://youtu.be/KrpqqNNLUSU")
+                   InlineKeyboardButton("📢Channel", url="https://t.me/Dulquer_Salmaan_lovers"),
+                   InlineKeyboardButton("🗣Group", url="http://t.me/kurup2021_dq_movie_collection"),
+                   InlineKeyboardButton("👨‍💻Source", url="https://github.com/BAGBOY555/Unlimited-Filter-Bot")
                 ],
                 [
-                   InlineKeyboardButton("🔻 Subscribe Now YouTube 🔻", url="https://youtu.be/KrpqqNNLUSU")
+                   InlineKeyboardButton("🔻 Subscribe Now YouTube 🔻", url="https://youtube.com/channel/UCgvMKeGX3hNfxfb7yEQpAgQ")
                 ]
             ]
         )
@@ -55,11 +55,11 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🗣️𝙶𝚛𝚘𝚞𝚙", url="https://t.me/Mo_tech_group"),
+                    InlineKeyboardButton("🗣Group", url="http://t.me/kurup2021_dq_movie_collection"),
                     InlineKeyboardButton("About Me👨‍💼", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("🖥️ 𝙷𝚘𝚠 𝚝𝚘 𝙳𝚎𝚙𝚕𝚘𝚢 🖥️", url="https://youtu.be/KrpqqNNLUSU")
+                    InlineKeyboardButton("❤️ Subscribe Now ❤️", url="https://youtube.com/channel/UCgvMKeGX3hNfxfb7yEQpAgQ")
                 ]
             ]
         )
@@ -77,7 +77,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "⛓️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ⛓️", url="https://github.com/MRK-YT/Unlimited-Filter-Bot")
+                        "⛓️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ⛓️", url="https://github.com/BAGBOY555/Unlimited-Filter-Bot")
                 ],
                 [
                     InlineKeyboardButton("🔙 𝙱𝚊𝚌𝚔", callback_data="help_data"),
